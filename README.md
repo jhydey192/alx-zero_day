@@ -1,1 +1,1 @@
-This is a non empty readme
+I am editing this readme to learn about merging branches.
